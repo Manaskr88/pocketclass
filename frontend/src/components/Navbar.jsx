@@ -49,10 +49,10 @@ const Navbar = () => {
                     <  hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
                 </NavLink>
 
-                <NavLink to='https://medservee-admin.netlify.app/'>
+{/*                 <NavLink to='https://medservee-admin.netlify.app/'>
                     <button className=' border border-gray-800 text-sm px-4 font-medium rounded-full py-1'>Admin panel</button>
                     <  hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
-                </NavLink>
+                </NavLink> */}
 
             </ul>
 
